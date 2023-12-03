@@ -7,4 +7,4 @@ State Logic.
 
 -Write a testbench program code to test the execution of the processor using Verilog Code.
 
--The software used for the project was Questa-Sim-
+-The software used for the project was Questa-Sim.
